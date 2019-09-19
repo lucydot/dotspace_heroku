@@ -1,1 +1,1 @@
-web: voila —-port=$PORT —-no-browser plot_jupyter_widgets.ipynb
+web: voila plot_jupyter_widgets.ipynb
