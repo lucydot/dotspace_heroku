@@ -1,8 +1,9 @@
 ipywidgets
 matplotlib
 numpy
-voila==0.1.6
+voila
 ipympl
 ipython
+jupyter_server
 
 
