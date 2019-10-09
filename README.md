@@ -28,7 +28,11 @@ Deploy using Heroku so that others can access your web app (I prefer Heroku over
 as outlined early in [this discussion](https://github.com/QuantStack/voila/issues/184). Your `requirements.txt` should contain `voila` and `jupyter extension`.
 
 
+**Note**: 
 
+* `heroku create` does not need to be used after each new commit
+* `git push heroku master` to deploy to heroku after a new commit
+* `git push origin master` to push to github repository (as I have set this repository as an additional upstream)
 
 
 
